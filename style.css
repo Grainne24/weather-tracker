@@ -1,1 +1,23 @@
+body {
+    background-color: rgb(235, 190, 198);
+}
 
+.search-box {
+    align-items: center;
+    padding: 20px;
+    display: block;
+    text-align: center;
+    font-style: italic;
+}
+
+.go-button {
+    color: peachpuff;
+}
+
+.go-button:hover {
+    color: bisque;
+}
+
+.weather-image {
+    align-items: center;
+}
